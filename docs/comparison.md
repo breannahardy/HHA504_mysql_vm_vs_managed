@@ -1,0 +1,2 @@
+# Comparision
+## In a production setting, I would choose a managed MySQL service like Google Cloud SQL. Managed databases handle tasks such as backups, updates, and maintenance automatically, which reduces the risk of errors and saves time. Although running MySQL on a VM provides more control, it requires more hands-on management and troubleshooting, making a managed solution a better and more reliable choice for production use.
