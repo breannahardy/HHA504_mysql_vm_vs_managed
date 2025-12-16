@@ -3,6 +3,9 @@
 ## Overview
 On Google Cloud Platform (GCP), I created and interacted with two MySQL databases. The first database was a self-managed MySQL instance running on a virtual machine, and the second was a managed MySQL instance using Cloud SQL. I connected to both databases using Python with SQLAlchemy, created a table, inserted sample data, and queried the results. The region used for this assignment was `us-east4`.
 
+## Loom Link
+
+<https://www.loom.com/share/d75b6d71fd4c4e7ebfedb03142fab44b>
 ---
 
 ## MySQL on a VM – Steps
