@@ -41,11 +41,11 @@ Database credentials were stored locally in a .env file and were not uploaded to
 
 ### VM
 ```
-VM_DB_HOST=10.0.1.10        
+VM_DB_HOST=....      
 VM_DB_PORT=3306
 VM_DB_USER=class_user
 VM_DB_PASS=change_me
-VM_DB_NAME=class_db_netid
+VM_DB_NAME=class_db
 ```
 ### Managed
 ```
@@ -53,7 +53,7 @@ MAN_DB_HOST=...
 MAN_DB_PORT=3306
 MAN_DB_USER=class_user
 MAN_DB_PASS=change_me
-MAN_DB_NAME=class_db_netid
+MAN_DB_NAME=class_db
 ```
 ---
 
